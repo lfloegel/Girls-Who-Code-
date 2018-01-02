@@ -1,6 +1,8 @@
 #Author: Lara Floegel-Shettty
 #Date: 12/2/17
 
+#TO RUN: The best way to run the program is in Terminal (just type in "python Rock.py" in the command line). The timers do not work on the online Python compilers.
+
 #Precondition: User inputs valid string (either Rock, Paper, or Scissors)
 #Postcondition: Program displays results of the game, whether user won or not
 
